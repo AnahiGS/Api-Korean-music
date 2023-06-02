@@ -1,2 +1,3 @@
 # Api-Korean-music
-Proyecto de creación de una API musical de Kpop
+
+Proyecto de creación de una API de consulta musical de Kpop
